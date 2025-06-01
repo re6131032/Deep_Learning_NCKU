@@ -1,0 +1,1 @@
+target_num_classes: 8\nmerge_strategy: background\nmin_target_ratio: 0.15\ntotal_images: 300\ntrain_images: 240\nval_images: 60\n

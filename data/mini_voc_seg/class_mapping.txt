@@ -1,0 +1,1 @@
+# 改進的類別映射 - 8個最優類別\n# 合併策略: background\n# 最小目標佔比: 0.15\n# 新ID -> 原ID -> 類別名稱\n0 -> 0 -> background\n1 -> 15 -> person\n2 -> 8 -> cat\n3 -> 12 -> dog\n4 -> 7 -> car\n5 -> 18 -> sofa\n6 -> 19 -> train\n7 -> 11 -> diningtable\n
